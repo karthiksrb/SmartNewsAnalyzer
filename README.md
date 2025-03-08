@@ -1,9 +1,10 @@
 # SmartNewsAnalyzer
 
+
 Based on the code I've provided, here's a comprehensive description of the personalized news digest website solution:
 
 ## Overview
-NewsInsight is a web application that delivers personalized news content with AI-powered summaries and sentiment analysis. The platform allows users to customize their news feed based on topics of interest, keywords, and preferred sources. Each article is processed through an AI model that generates concise summaries and provides sentiment analysis insights.
+SmartNewsAnalyzer is a web application that delivers personalized news content with AI-powered summaries and sentiment analysis. The platform allows users to customize their news feed based on topics of interest, keywords, and preferred sources. Each article is processed through an AI model that generates concise summaries and provides sentiment analysis insights.
 
 ## Architecture Components
 
